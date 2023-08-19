@@ -1,3 +1,4 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pevinyageenadi&show_icons=true&theme=radical)
 <h1 align="center">Hi 👋, I'm Pevinya Geenadi</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
@@ -31,8 +32,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pevinyageenadi&show_icons=true&locale=en" alt="pevinyageenadi" /></p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pevinyageenadi&show_icons=true&theme=radical)
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pevinyageenadi&" alt="pevinyageenadi" /></p>
