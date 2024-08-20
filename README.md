@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Pevinya Geenadi</h1>
-<h3 align="center">Passionate Frontend Developer </h3>
+<h3 align="center">Passionate Software Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pevinyageenadi&label=Profile%20views&color=blueviolet&style=flat-square" alt="pevinyageenadi" />
